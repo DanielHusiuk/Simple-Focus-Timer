@@ -1,6 +1,6 @@
 # Simple-Focus-Timer
 
-Pomodoro Timer using UIKit
+*Pomodoro Timer using UIKit*
 
 Implemented:
 - 25 min timer with 5 min break
